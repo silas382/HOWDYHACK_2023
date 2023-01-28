@@ -1,2 +1,2 @@
 # HOWDYHACK_2023
-# cool stuf
+# cool stuff
